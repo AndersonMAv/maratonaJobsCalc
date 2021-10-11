@@ -48,3 +48,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+
+
+minhasAnotações(Modelo MVC) {
+  return Divisão de diretorios Model + Views + Controlers.
+  Restula em um codigo mais limpo e legivel
+}
